@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CUS0" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <CUS0>
+    <HEADER>
+     <ACTIVITY>ZFMMDFESTATUS</ACTIVITY>
+     <DOCU_ID>SIMG</DOCU_ID>
+     <C_ACTIVITY>ZFMMDFESTATUS</C_ACTIVITY>
+     <TCODE>Y_S4D_96000001</TCODE>
+    </HEADER>
+    <TEXTS>
+     <CUS_IMGACT>
+      <SPRAS>E</SPRAS>
+      <ACTIVITY>ZFMMDFESTATUS</ACTIVITY>
+      <TEXT>MDF-e Definir códigos de status</TEXT>
+     </CUS_IMGACT>
+    </TEXTS>
+   </CUS0>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SHI5" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SHI5>
+    <HEADER>
+     <EXTENSION>ZTM_3C_CONFIGS</EXTENSION>
+    </HEADER>
+    <TEXTS>
+     <TTREE_EXTT>
+      <SPRAS>E</SPRAS>
+      <EXTENSION>ZTM_3C_CONFIGS</EXTENSION>
+      <TEXT>Configurations for TM at 3 Corações</TEXT>
+     </TTREE_EXTT>
+    </TEXTS>
+    <SEQUENCES>
+     <TTREES>
+      <ID>44AA26DC1E1048F7E10000000A1552CB</ID>
+      <EXTENSION>ZTM_3C_CONFIGS</EXTENSION>
+      <SEQUENCE>1</SEQUENCE>
+     </TTREES>
+    </SEQUENCES>
+   </SHI5>
+  </asx:values>
+ </asx:abap>
+</abapGit>
